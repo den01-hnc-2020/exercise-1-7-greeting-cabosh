@@ -1,5 +1,5 @@
 def main():
-    name = input("What's your name?")
+    name = input("What's your name?\n")
     print("Hi " + name)
     #write your code below this line
 
